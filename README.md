@@ -9,7 +9,7 @@ The samples of RMI&JNDI attack
 - Client Attack Registry
 - Server Attack Registry
 - Bypass JEP290 8u121~8u230(`DGCClient#dirty`)
-- Bypass JEP290 8u231~8u240
+- Bypass JEP290 8u231~8u240(`UnicastRemoteObject#readObject`)
 
 ## JNDI
 - RMI Server
