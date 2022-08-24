@@ -1,8 +1,6 @@
 # RMI-JNDI-Attack-Samples
 The samples of RMI&JNDI attack
 
-RPC Demo: https://www.wolai.com/jyw_me/qECVxm3MQZ6G5fk7xKTbep?theme=light
-
 ## RMI
 - [Client Attack Server](https://github.com/F4ded/RMI-JNDI-Attack-Samples/tree/master/src/main/java/RMI/CAS)
 - [Server Attack Client](https://github.com/F4ded/RMI-JNDI-Attack-Samples/tree/master/src/main/java/RMI/SAC)
